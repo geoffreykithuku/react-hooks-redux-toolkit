@@ -15,6 +15,7 @@ function Cats() {
   return (
     <div className="App">
       <h1>CatBook</h1>
+
       <CatList catPics={catPics} />
     </div>
   );
